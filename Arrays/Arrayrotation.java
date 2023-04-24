@@ -22,4 +22,4 @@ public class Arrayrotation {
 		
 	}
 }
-
+//This is a code for rotation of elements from single array.
